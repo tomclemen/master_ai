@@ -131,3 +131,4 @@ dmypy.json
 *.profile-empty
 *.pb
 *.gz
+model_1.png
